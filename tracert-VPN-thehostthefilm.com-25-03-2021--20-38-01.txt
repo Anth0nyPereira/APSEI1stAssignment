@@ -1,0 +1,6 @@
+
+Tracing route to thehostthefilm.com [98.153.124.3]
+over a maximum of 30 hops:
+
+  1     2 ms     3 ms     4 ms  vodafonegw [192.168.1.1] 
+  2  

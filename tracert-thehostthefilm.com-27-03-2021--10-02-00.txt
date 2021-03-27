@@ -1,0 +1,36 @@
+
+Tracing route to thehostthefilm.com [98.153.124.3]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  vodafonegw [192.168.1.1] 
+  2     7 ms     6 ms     7 ms  2.64.54.77.rev.vodafone.pt [77.54.64.2] 
+  3     7 ms     7 ms     8 ms  113.41.30.213.rev.vodafone.pt [213.30.41.113] 
+  4     7 ms     7 ms     9 ms  195.10.48.9 
+  5    33 ms    32 ms    32 ms  ae18-pcr1.ptl.cw.net [195.2.21.150] 
+  6   108 ms   113 ms   112 ms  ae20-xcr1.ash.cw.net [195.2.9.30] 
+  7   111 ms   108 ms     *     as7843.xcr1.ash.cw.net [195.2.14.42] 
+  8   180 ms   175 ms   175 ms  66.109.5.116 
+  9   175 ms   175 ms   177 ms  66.109.6.151 
+ 10   175 ms   175 ms   176 ms  bu-ether12.hstqtx0209w-bcr00.tbone.rr.com [66.109.6.36] 
+ 11   174 ms   176 ms   175 ms  107.14.19.49 
+ 12   180 ms   181 ms   174 ms  bu-ether12.tustca4200w-bcr00.tbone.rr.com [66.109.6.0] 
+ 13   174 ms   176 ms   175 ms  agg2.tustcaft01r.socal.rr.com [66.109.3.233] 
+ 14   185 ms   185 ms   184 ms  agg1.chwocadq02r.socal.rr.com [72.129.25.3] 
+ 15   183 ms   180 ms   180 ms  agg1.cnpkca2602h.socal.rr.com [72.129.27.131] 
+ 16   176 ms   175 ms   176 ms  agg2.cnpkca2602m.socal.rr.com [76.167.30.206] 
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.

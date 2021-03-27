@@ -1,0 +1,36 @@
+
+Tracing route to thehostthefilm.com [98.153.124.3]
+over a maximum of 30 hops:
+
+  1    21 ms    18 ms    25 ms  fw-vsvpn.ua.pt [193.137.173.235] 
+  2    22 ms    39 ms    18 ms  gt1-vrfinternet-r.core.ua.pt [193.137.173.244] 
+  3    18 ms    19 ms    21 ms  nx2-ibgp.core.ua.pt [10.0.34.1] 
+  4    23 ms    19 ms    20 ms  Router42.Porto.fccn.pt [193.136.4.26] 
+  5    19 ms    19 ms    22 ms  Router43.Porto.fccn.pt [193.137.4.2] 
+  6    24 ms    32 ms    23 ms  Router60.Backbone2.Lisboa.fccn.pt [193.136.4.1] 
+  7    24 ms    24 ms    25 ms  Router1.Lisboa.fccn.pt [194.210.6.203] 
+  8    24 ms    23 ms    23 ms  fccn-ias-geant-gw.mx2.lis.pt.geant.net [83.97.88.209] 
+  9    71 ms    67 ms    67 ms  ae0.mx1.mad.es.geant.net [62.40.98.107] 
+ 10    73 ms    70 ms    69 ms  ae3.mx1.par.fr.geant.net [62.40.98.65] 
+ 11    88 ms    71 ms    70 ms  ae5.mx1.gen.ch.geant.net [62.40.98.182] 
+ 12    67 ms    69 ms    67 ms  ae2.mx1.fra.de.geant.net [62.40.98.180] 
+ 13    71 ms    66 ms    66 ms  ffm-b12-link.ip.twelve99.net [80.239.135.136] 
+ 14   191 ms   191 ms   193 ms  ffm-bb2-link.ip.twelve99.net [62.115.142.4] 
+ 15   190 ms   189 ms   190 ms  prs-bb2-link.ip.twelve99.net [62.115.114.98] 
+ 16   190 ms   191 ms   189 ms  rest-bb1-link.ip.twelve99.net [62.115.122.159] 
+ 17   221 ms   203 ms   205 ms  atl-b24-link.ip.twelve99.net [62.115.125.191] 
+ 18   301 ms   306 ms   306 ms  dls-b23-link.ip.twelve99.net [80.91.246.75] 
+ 19   229 ms   308 ms   304 ms  chartercommunications-ic325638-dls-b23.ip.twelve99-cust.net [62.115.156.209] 
+ 20   215 ms   215 ms   217 ms  66.109.5.120 
+ 21   229 ms   233 ms   230 ms  66.109.5.228 
+ 22   442 ms   305 ms   223 ms  209-18-43-73.dfw10.tbone.rr.com [209.18.43.73] 
+ 23   347 ms   306 ms   223 ms  agg1.chwocadq02r.socal.rr.com [72.129.25.3] 
+ 24   226 ms   227 ms   225 ms  agg1.cnpkca2602h.socal.rr.com [72.129.27.131] 
+ 25   221 ms   220 ms   221 ms  agg2.cnpkca2602m.socal.rr.com [76.167.30.206] 
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.

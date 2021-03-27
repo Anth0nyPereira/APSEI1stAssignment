@@ -1,0 +1,27 @@
+
+Tracing route to bruxodefafe.pt [81.88.57.70]
+over a maximum of 30 hops:
+
+  1    18 ms    17 ms    16 ms  fw-vsvpn.ua.pt [193.137.173.235] 
+  2    17 ms    18 ms    17 ms  gt2-vrfinternet-r.core.ua.pt [193.137.173.243] 
+  3    19 ms    18 ms    18 ms  Router42.Porto.fccn.pt [193.136.4.26] 
+  4    19 ms    19 ms    21 ms  Router23.Porto.fccn.pt [193.137.4.4] 
+  5    23 ms    25 ms    24 ms  Router30.Backbone1.Lisboa.fccn.pt [193.136.1.1] 
+  6    24 ms    23 ms    23 ms  Router1.Lisboa.fccn.pt [194.210.6.103] 
+  7    22 ms    23 ms    25 ms  fccn-ias-geant-gw.mx2.lis.pt.geant.net [83.97.88.209] 
+  8    59 ms    57 ms    63 ms  ae0.mx1.mad.es.geant.net [62.40.98.107] 
+  9    59 ms    59 ms    58 ms  ae3.mx1.par.fr.geant.net [62.40.98.65] 
+ 10    57 ms    60 ms    58 ms  ae5.mx1.lon2.uk.geant.net [62.40.98.178] 
+ 11    63 ms    62 ms    61 ms  ae6.mx1.lon.uk.geant.net [62.40.98.36] 
+ 12     *        *        *     Request timed out.
+ 13    61 ms    61 ms    60 ms  t2c4-et-5-1-2.uk-lon1.gia.bt.net [166.49.195.1] 
+ 14    78 ms    79 ms    79 ms  t2c4-xe-11-0-0.it-mil2.gia.bt.net [166.49.208.188] 
+ 15    79 ms    78 ms    78 ms  t2c3-xe-0-0-0-1.it-mil2.gia.bt.net [166.49.237.82] 
+ 16    79 ms    77 ms    77 ms  166-49-243-130.gia.bt.net [166.49.243.130] 
+ 17    80 ms    79 ms    80 ms  217.220.187.62 
+ 18    87 ms    81 ms    86 ms  te2-1-1.bf2-hsrs-2p-10g.wf.inet.it [212.239.107.162] 
+ 19    78 ms    79 ms    78 ms  194.185.82.166 
+ 20    84 ms    78 ms    78 ms  nava-big-e3-3.register.it [81.88.54.250] 
+ 21    80 ms    79 ms    79 ms  81.88.57.70 
+
+Trace complete.
