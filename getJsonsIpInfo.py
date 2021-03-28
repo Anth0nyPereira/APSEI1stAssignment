@@ -8,7 +8,6 @@ import os
 import pyautogui
 
 running = True
-cont = 0
 now = datetime.now()
 now = now.strftime("%d-%m-%Y--%H-%M-%S")
 # Author: Anth0nyPereira
@@ -72,28 +71,11 @@ def turnOffVPN():
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
     time.sleep(5)
-
-    '''
-    pyautogui.click(x=1601, y=1055)
-    time.sleep(1)
-    pyautogui.moveTo(1516, 981)
-    time.sleep(1)
-    pyautogui.click(button='right')
-    time.sleep(1)
-    pyautogui.click(x=1675, y=963)
-    time.sleep(1)
-    keyboard.press(Key.enter)
-    keyboard.release(Key.enter)
-    '''
     
 def program():
     global running
-    global cont
     global now
     
-    if cont == 5:
-        running = False
-        schedule.cancel_job
     site = sys.argv[1]
     fileName = "tracert-" + site + "-" + now + ".txt"
     
@@ -113,18 +95,11 @@ def program():
     ipsVPNList = openTracertFile(fileNameVPN)
     resultsVPNFileName = "results-" + fileNameVPN
     getIpLocation(resultsVPNFileName, ipsVPNList)
-    turnOffVPN();
-    cont += 1
+    turnOffVPN()
     
 
 def main():
     program()
-    #schedule.every().day.at("11:30").do(program)
-    #schedule.every().hour.do(program)
-
-    #while running:
-        #schedule.run_pending()
-     #   time.sleep(1)
     
 if __name__ == "__main__":
     main() 

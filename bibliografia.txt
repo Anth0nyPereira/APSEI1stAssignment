@@ -1,9 +1,16 @@
 https://pt.wikipedia.org/wiki/Traceroute
 https://www.onsip.com/voip-resources/voip-fundamentals/voip-troubleshooting-what-is-traceroute-and-how-does-it-work
-https://www.solarwindsmsp.com/blog/what-is-traceroute-how-does-it-work
 https://en.wikipedia.org/wiki/Traceroute
 https://en.wikipedia.org/wiki/Internet
 https://www.youtube.com/watch?v=up3bcBLZS74
 https://ipinfo.io/about
 https://serverfault.com/questions/729654/why-am-i-getting-different-results-from-two-servers-that-located-in-the-same-des
 https://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.307
+https://www.netnod.se/ix/what-is-an-ixp-and-what-is-peering
+https://www.xfinity.com/support/articles/run-traceroute-command
+https://www.history.com/news/who-invented-the-internet
+https://pplware.sapo.pt/informacao/como-surgiu-a-internet
+https://smallbusiness.chron.com/internet-based-business-models-definition-909.html
+https://www.youtube.com/watch?v=2-_WEWLp4iY
+https://corporate.charter.com/
+https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)

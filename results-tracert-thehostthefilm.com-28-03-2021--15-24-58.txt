@@ -1,0 +1,227 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100   325    0     0    325      0  0:00:01 --:--:--  0:00:01  1737
+{
+  "ip": "98.153.124.3",
+  "hostname": "rrcs-98-153-124-3.west.biz.rr.com",
+  "city": "Calabasas",
+  "region": "California",
+  "country": "US",
+  "loc": "34.1993,-118.5983",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "91303",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    42  100    42    0     0     42      0  0:00:01 --:--:--  0:00:01   244100    42  100    42    0     0     42      0  0:00:01 --:--:--  0:00:01   244
+{
+  "ip": "192.168.1.1",
+  "bogon": true
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100   325    0     0    325      0  0:00:01 --:--:--  0:00:01  1737
+{
+  "ip": "77.54.64.2",
+  "hostname": "2.64.54.77.rev.vodafone.pt",
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS12353 Vodafone Portugal - Communicacoes Pessoais S.A.",
+  "postal": "1000-001",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   329  100   329    0     0    329      0  0:00:01 --:--:--  0:00:01  1750
+{
+  "ip": "213.30.41.113",
+  "hostname": "113.41.30.213.rev.vodafone.pt",
+  "city": "Porto",
+  "region": "Porto",
+  "country": "PT",
+  "loc": "41.1496,-8.6110",
+  "org": "AS12353 Vodafone Portugal - Communicacoes Pessoais S.A.",
+  "postal": "4000-000",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   252  100   252    0     0    252      0  0:00:01 --:--:--  0:00:01  1465
+{
+  "ip": "195.10.48.9",
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS1273 Vodafone Group PLC",
+  "postal": "1000-001",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   287  100   287    0     0    287      0  0:00:01 --:--:--  0:00:01  1534100   287  100   287    0     0    287      0  0:00:01 --:--:--  0:00:01  1534
+{
+  "ip": "195.2.21.150",
+  "hostname": "ae18-pcr1.ptl.cw.net",
+  "city": "Slough",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5095,-0.5954",
+  "org": "AS1273 Vodafone Group PLC",
+  "postal": "SL1",
+  "timezone": "Europe/London",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   293  100   293    0     0    293      0  0:00:01 --:--:--  0:00:01  1703
+{
+  "ip": "195.2.9.30",
+  "hostname": "ae20-xcr1.ash.cw.net",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS1273 Vodafone Group PLC",
+  "postal": "20149",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   296  100   296    0     0    296      0  0:00:01 --:--:--  0:00:01  1582
+{
+  "ip": "195.2.14.42",
+  "hostname": "as7843.xcr1.ash.cw.net",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS1273 Vodafone Group PLC",
+  "postal": "20149",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   266  100   266    0     0    266      0  0:00:01 --:--:--  0:00:01  1546
+{
+  "ip": "66.109.5.116",
+  "city": "Englewood",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.6123,-104.8799",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "80111",
+  "timezone": "America/Denver",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   263  100   263    0     0    263      0  0:00:01 --:--:--  0:00:01  1529100   263  100   263    0     0    263      0  0:00:01 --:--:--  0:00:01  1529
+{
+  "ip": "66.109.6.151",
+  "city": "Denver",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.7392,-104.9847",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "80208",
+  "timezone": "America/Denver",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   319  100   319    0     0    319      0  0:00:01 --:--:--  0:00:01  1705
+{
+  "ip": "66.109.6.36",
+  "hostname": "bu-ether12.hstqtx0209w-bcr00.tbone.rr.com",
+  "city": "Houston",
+  "region": "Texas",
+  "country": "US",
+  "loc": "29.7633,-95.3633",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "77052",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   266  100   266    0     0    266      0  0:00:01 --:--:--  0:00:01  1546
+{
+  "ip": "107.14.19.49",
+  "city": "Englewood",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.6123,-104.8799",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "80111",
+  "timezone": "America/Denver",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   327  100   327    0     0    327      0  0:00:01 --:--:--  0:00:01  1739
+{
+  "ip": "66.109.6.0",
+  "hostname": "bu-ether12.tustca4200w-bcr00.tbone.rr.com",
+  "city": "Tustin",
+  "region": "California",
+  "country": "US",
+  "loc": "33.7458,-117.8262",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "92780",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   311  100   311    0     0    311      0  0:00:01 --:--:--  0:00:01  1532100   311  100   311    0     0    311      0  0:00:01 --:--:--  0:00:01  1532
+{
+  "ip": "66.109.3.233",
+  "hostname": "agg2.tustcaft01r.socal.rr.com",
+  "city": "Chicago",
+  "region": "Illinois",
+  "country": "US",
+  "loc": "41.8500,-87.6500",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "60666",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   322  100   322    0     0    322      0  0:00:01 --:--:--  0:00:01  1712
+{
+  "ip": "72.129.25.3",
+  "hostname": "agg1.chwocadq02r.socal.rr.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   324  100   324    0     0    324      0  0:00:01 --:--:--  0:00:01  1883
+{
+  "ip": "72.129.27.131",
+  "hostname": "agg1.cnpkca2602h.socal.rr.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   324  100   324    0     0    324      0  0:00:01 --:--:--  0:00:01  1732
+{
+  "ip": "76.167.30.206",
+  "hostname": "agg2.cnpkca2602m.socal.rr.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}
