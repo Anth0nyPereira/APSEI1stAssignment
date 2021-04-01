@@ -1,0 +1,347 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   325  100   325    0     0    325      0  0:00:01 --:--:--  0:00:01  1300
+{
+  "ip": "98.153.124.3",
+  "hostname": "rrcs-98-153-124-3.west.biz.rr.com",
+  "city": "Calabasas",
+  "region": "California",
+  "country": "US",
+  "loc": "34.1993,-118.5983",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "91303",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   282  100   282    0     0    282      0  0:00:01 --:--:--  0:00:01  1287
+{
+  "ip": "193.137.173.235",
+  "city": "Aveiro",
+  "region": "Aveiro",
+  "country": "PT",
+  "loc": "40.6443,-8.6455",
+  "org": "AS1930 Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "postal": "3800-000",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   282  100   282    0     0    282      0  0:00:01 --:--:--  0:00:01   900
+{
+  "ip": "193.137.173.243",
+  "city": "Aveiro",
+  "region": "Aveiro",
+  "country": "PT",
+  "loc": "40.6443,-8.6455",
+  "org": "AS1930 Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "postal": "3800-000",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   317  100   317    0     0    317      0  0:00:01 --:--:--  0:00:01  1561
+{
+  "ip": "193.136.4.26",
+  "hostname": "router42.porto.fccn.pt",
+  "city": "Porto",
+  "region": "Porto",
+  "country": "PT",
+  "loc": "41.1496,-8.6110",
+  "org": "AS1930 Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "postal": "4000-000",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   318  100   318    0     0    318      0  0:00:01 --:--:--  0:00:01  1458
+{
+  "ip": "193.137.4.2",
+  "hostname": "router43.porto.fccn.pt",
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS1930 Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "postal": "1000-046",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   327  100   327    0     0    327      0  0:00:01 --:--:--  0:00:01   993
+{
+  "ip": "193.136.4.1",
+  "hostname": "router60.backbone2.lisboa.fccn.pt",
+  "city": "Porto",
+  "region": "Porto",
+  "country": "PT",
+  "loc": "41.1496,-8.6110",
+  "org": "AS1930 Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "postal": "4000-000",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   320  100   320    0     0    320      0  0:00:01 --:--:--  0:00:01  1461
+{
+  "ip": "194.210.6.203",
+  "hostname": "router1.lisboa.fccn.pt",
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS1930 Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "postal": "1000-001",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   308  100   308    0     0    308      0  0:00:01 --:--:--  0:00:01  1517100   308  100   308    0     0    308      0  0:00:01 --:--:--  0:00:01  1517
+{
+  "ip": "83.97.88.209",
+  "hostname": "fccn-ias-geant-gw.mx2.lis.pt.geant.net",
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "org": "AS21320 GEANT Vereniging",
+  "postal": "1000-001",
+  "timezone": "Europe/Lisbon",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   291  100   291    0     0    291      0  0:00:01 --:--:--  0:00:01  1433
+{
+  "ip": "62.40.98.107",
+  "hostname": "ae0.mx1.mad.es.geant.net",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "org": "AS20965 GEANT Vereniging",
+  "postal": "EC1A",
+  "timezone": "Europe/London",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   290  100   290    0     0    290      0  0:00:01 --:--:--  0:00:01  1324
+{
+  "ip": "62.40.98.65",
+  "hostname": "ae3.mx1.par.fr.geant.net",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "org": "AS20965 GEANT Vereniging",
+  "postal": "EC1A",
+  "timezone": "Europe/London",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   291  100   291    0     0    291      0  0:00:01 --:--:--  0:00:01  1328
+{
+  "ip": "62.40.98.182",
+  "hostname": "ae5.mx1.gen.ch.geant.net",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "org": "AS20965 GEANT Vereniging",
+  "postal": "EC1A",
+  "timezone": "Europe/London",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   291  100   291    0     0    291      0  0:00:01 --:--:--  0:00:01  1328
+{
+  "ip": "62.40.98.180",
+  "hostname": "ae2.mx1.fra.de.geant.net",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "org": "AS20965 GEANT Vereniging",
+  "postal": "EC1A",
+  "timezone": "Europe/London",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   305  100   305    0     0    305      0  0:00:01 --:--:--  0:00:01  1399
+{
+  "ip": "80.239.135.136",
+  "hostname": "ffm-b12-link.ip.twelve99.net",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "org": "AS1299 Telia Company AB",
+  "postal": "60311",
+  "timezone": "Europe/Berlin",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   303  100   303    0     0    303      0  0:00:01 --:--:--  0:00:01  1492
+{
+  "ip": "62.115.142.4",
+  "hostname": "ffm-bb2-link.ip.twelve99.net",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "org": "AS1299 Telia Company AB",
+  "postal": "60311",
+  "timezone": "Europe/Berlin",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   300  100   300    0     0    300      0  0:00:01 --:--:--  0:00:01  1477100   300  100   300    0     0    300      0  0:00:01 --:--:--  0:00:01  1477
+{
+  "ip": "62.115.114.98",
+  "hostname": "prs-bb2-link.ip.twelve99.net",
+  "city": "Paris",
+  "region": "Île-de-France",
+  "country": "FR",
+  "loc": "48.8534,2.3488",
+  "org": "AS1299 Telia Company AB",
+  "postal": "75000",
+  "timezone": "Europe/Paris",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   303  100   303    0     0    303      0  0:00:01 --:--:--  0:00:01   923
+{
+  "ip": "62.115.122.159",
+  "hostname": "rest-bb1-link.ip.twelve99.net",
+  "city": "Solna",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3600,18.0009",
+  "org": "AS1299 Telia Company AB",
+  "postal": "105 04",
+  "timezone": "Europe/Stockholm",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   302  100   302    0     0    302      0  0:00:01 --:--:--  0:00:01  1487
+{
+  "ip": "62.115.125.191",
+  "hostname": "atl-b24-link.ip.twelve99.net",
+  "city": "Solna",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3600,18.0009",
+  "org": "AS1299 Telia Company AB",
+  "postal": "105 04",
+  "timezone": "Europe/Stockholm",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   300  100   300    0     0    300      0  0:00:01 --:--:--  0:00:01  1477100   300  100   300    0     0    300      0  0:00:01 --:--:--  0:00:01  1477
+{
+  "ip": "80.91.246.75",
+  "hostname": "dls-b23-link.ip.twelve99.net",
+  "city": "Solna",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3600,18.0009",
+  "org": "AS1299 Telia Company AB",
+  "postal": "105 04",
+  "timezone": "Europe/Stockholm",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   333  100   333    0     0    333      0  0:00:01 --:--:--  0:00:01  1520
+{
+  "ip": "62.115.156.209",
+  "hostname": "chartercommunications-ic325638-dls-b23.ip.twelve99-cust.net",
+  "city": "Solna",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3600,18.0009",
+  "org": "AS1299 Telia Company AB",
+  "postal": "105 04",
+  "timezone": "Europe/Stockholm",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   266  100   266    0     0    266      0  0:00:01 --:--:--  0:00:01  1310
+{
+  "ip": "66.109.5.120",
+  "city": "Englewood",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.6123,-104.8799",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "80111",
+  "timezone": "America/Denver",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   266  100   266    0     0    266      0  0:00:01 --:--:--  0:00:01  1310
+{
+  "ip": "66.109.5.228",
+  "city": "Englewood",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.6123,-104.8799",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "80111",
+  "timezone": "America/Denver",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   309  100   309    0     0    309      0  0:00:01 --:--:--  0:00:01  1522
+{
+  "ip": "209.18.43.73",
+  "hostname": "209-18-43-73.dfw10.tbone.rr.com",
+  "city": "Dallas",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.7831,-96.8067",
+  "org": "AS7843 Charter Communications Inc",
+  "postal": "75270",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   322  100   322    0     0    322      0  0:00:01 --:--:--  0:00:01  1586
+{
+  "ip": "72.129.25.3",
+  "hostname": "agg1.chwocadq02r.socal.rr.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   324  100   324    0     0    324      0  0:00:01 --:--:--  0:00:01  1479
+{
+  "ip": "72.129.27.131",
+  "hostname": "agg1.cnpkca2602h.socal.rr.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   324  100   324    0     0    324      0  0:00:01 --:--:--  0:00:01  1596100   324  100   324    0     0    324      0  0:00:01 --:--:--  0:00:01  1596
+{
+  "ip": "76.167.30.206",
+  "hostname": "agg2.cnpkca2602m.socal.rr.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS20001 Charter Communications Inc",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}
